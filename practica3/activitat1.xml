@@ -1,0 +1,35 @@
+<?xml version="1.0" encodign="UTF-8"?>
+<students>
+    <student pais = "España">
+        <name>Yolanda</name>
+        <surname>López</surname>
+        <email>yolandalpez@gmail.com</email>
+        <dni>43571642L</dni>
+    </student>
+    <student pais = "Argentina">
+        <name>Rodrigo</name>
+        <surname>Arias</surname>
+        <email>rodrigoarias@gmail.com</email>
+        <dni>42547698J</dni>
+    </student>
+    <student pais = "Rumania">
+        <name>Maria</name>
+        <surname>Garcia</surname>
+        <email>mariagarcia@gmail.com</email>
+        <dni>45123978U</dni>
+    </student>
+    <student pais = "Perú">
+        <name>Juan</name>
+        <surname>Meza</surname>
+        <email>juanmeza@gmail.com</email>
+        <dni>47896142S</dni>
+    </student>
+     <student pais = "España">
+        <name>Ana</name>
+        <surname>Rodriguez</surname>
+        <email>anarodriguez@gmail.com</email>
+        <dni>44789621P</dni>
+    </student>
+</students>
+
+
