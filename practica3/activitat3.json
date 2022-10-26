@@ -1,0 +1,26 @@
+{"bookstore": {
+    "book": {
+        "tittle": "La luna",
+        "publisher": "Maria Hernandez",
+        "cover": "blanda",
+        "price": "10€",
+    },
+    "book": {
+        "tittle": "El sol",
+        "publisher": "Raul Dominguez",
+        "cover": "dura",
+        "price": "15€",
+    },
+    "book": {
+        "tittle": "El gato",
+        "publisher": "Joel Fernandez",
+        "cover": "blanda",
+        "price": "10€",
+    },
+    "book": {
+        "tittle": "El cielo",
+        "publisher": "Danna Lopez",
+        "cover": "dura",
+        "price": "20€",
+    },
+}}
