@@ -1,0 +1,29 @@
+<?xml version="1.0" encodign="UTF-8"?>
+
+<bookstore>
+    <book>
+        <title>La luna</title>
+        <publisher>Maria Hernandez</publisher>
+        <cover>blanda</cover>
+        <price>10</price>
+    </book>
+    <book>
+        <title>El sol</title>
+        <publisher>Raul Dominguez</publisher>
+        <cover>dura</cover>
+        <price>15</price>
+    </book>
+    <book>
+        <title>El gato</title>
+        <publisher>Joel Fernandez</publisher>
+        <cover>blanda</cover>
+        <price>10</price>
+    </book>
+    <book>
+        <title>El cielo</title>
+        <publisher>Dama Lopez</publisher>
+        <cover>dura</cover>
+        <price>15</price>
+    </book>
+
+</bookstore>
